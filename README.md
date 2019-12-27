@@ -8,13 +8,13 @@
 </h3>
 
 <p align="center">
-  <img alt = "Última confirmação do Github" src = "https://img.shields.io/github/last-commit/joaogasparr/gostack-gympoint">
-  <img alt = "Idioma principal do GitHub" src = "https://img.shields.io/github/languages/top/joaogasparr/gostack-gympoint">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaogasparr/gostack-gympoint?color=%2304D361">
+  <img alt = "Última confirmação do Github" src = "https://img.shields.io/github/last-commit/joaogasparr/gostack-gobarber">
+  <img alt = "Idioma principal do GitHub" src = "https://img.shields.io/github/languages/top/joaogasparr/gostack-gobarber">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaogasparr/gostack-gobarber?color=%2304D361">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/joaogasparr/gostack-gympoint/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/joaogasparr/gostack-gympoint?style=social">
+  <a href="https://github.com/joaogasparr/gostack-gobarber/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/joaogasparr/gostack-gobarber?style=social">
   </a>
 </p>
 
